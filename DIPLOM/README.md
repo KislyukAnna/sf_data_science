@@ -3,18 +3,18 @@
 ## Бриф учебного кейса «Лаборатории исследований гражданского общества». Государственные деньги у НКО»
 
 ## Оглавление
-[1. Описание проекта](https://github.com/KislyukAnna/sf_data_science/tree/main/Project_4#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
-[2. Какой кейс решаем?](https://github.com/KislyukAnna/sf_data_science/tree/main/Project_4#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
-[3. Информация о данных](https://github.com/KislyukAnna/sf_data_science/tree/main/Project_4#%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-[4. Этапы работы над проектом](https://github.com/KislyukAnna/sf_data_science/tree/main/Project_4#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
-[5. Результат](https://github.com/KislyukAnna/sf_data_science/tree/main/Project_4#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
-[6. выводы ](https://github.com/KislyukAnna/sf_data_science/tree/main/Project_4#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
+[1. Описание проекта](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[2. Какой кейс решаем?](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[3. Информация о данных](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[4. Этапы работы над проектом](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
+[5. Результат](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
+[6. выводы ](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 
 ### Описание проекта
 НКО хотят повысить свои шансы на получение гранта. Для этого им важно понять, что именно может повлиять на это. Эту задачу и предстоит решать тем, кто выберет этот бриф как основу дипломного проекта. Компания сможет использовать результаты исследования, чтобы подсказывать НКО, как повысить шансы на финансовую поддержку.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?
@@ -24,31 +24,32 @@
 
 Техническая задача специалиста Data Science: построить модель машинного обучения, которая на основе предложенных характеристик организации будет прогнозировать вероятность получения грантов от государства/госконтрактов.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Информация о данных
 
-[Источник данных — проект «Открытые НКО»](https://openngo.ru/)
-[Дамп данных в формате JSON (актуален на 26.08.2021)](https://drive.google.com/file/d/1PQweRjt7uX00mWva0_goaj8JLz1tiTLx/view?usp=sharing)
-[Описание полей на GitHub](https://github.com/infoculture/openngo-data-reference/wiki/%D0%A5%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D0%B8-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+- [Источник данных — проект «Открытые НКО»](https://openngo.ru/)
+- [Дамп данных в формате JSON (актуален на 26.08.2021)](https://drive.google.com/file/d/1PQweRjt7uX00mWva0_goaj8JLz1tiTLx/view?usp=sharing)
+- [Описание полей на GitHub](https://github.com/infoculture/openngo-data-reference/wiki/%D0%A5%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D0%B8-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом
-
+I Этап. [diplomwork_EDA](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/diplomwork_EDA.ipynb)
 1. Первичная обработка данных
 2. Разведывательный анализ данных (EDA)
 3. Отбор и преобразование признаков
+II Этап. [diplomwork_ML](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/diplomwork_ML.ipynb)
 4. Обогащение синтетическими данными тренировочной выборки признаков.
 5. Решение задачи классификации: Построение моделей логистической регрессия и решающие деревья с оптимизацией гиперпараметров.
 6. Решение задачи классификации: Построение моделей ансамбли моделей и ансабли ансамблей.
 7. Согласно сводной таблицы выбор итоговой модели и подготовка ее к продакшену.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Результаты:
-[ Ноутбук с выполненными заданиями]()
+
 Реализована задача классификации, на основе соответствующих метрик проведено сравнение эффективности различных моделей. Выявлены признаки с наибольшим влиянием на исход маркетинговой кампании. Обозначены возможные способы дальнейшего улучшения модели машинного обучения.
 
 ### Выводы
@@ -64,4 +65,4 @@
 
 Задача решена на базовом уровне в соответствии с минимумом требований, необходимых для сдачи проекта. Безусловно остается потенциал по возможному улучшению метрик при более тщательной и творческой обработке признаков, транформации данных, экспериментировании с различными моделями.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
