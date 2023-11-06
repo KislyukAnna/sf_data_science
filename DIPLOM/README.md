@@ -40,6 +40,7 @@ I Этап. [diplomwork_EDA](https://github.com/KislyukAnna/sf_data_science/blob
 1. Первичная обработка данных
 2. Разведывательный анализ данных (EDA)
 3. Отбор и преобразование признаков
+
 II Этап. [diplomwork_ML](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/diplomwork_ML.ipynb)
 4. Обогащение синтетическими данными тренировочной выборки признаков.
 5. Решение задачи классификации: Построение моделей логистической регрессия и решающие деревья с оптимизацией гиперпараметров.
