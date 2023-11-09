@@ -71,4 +71,4 @@ II Этап. [diplomwork_ML](https://github.com/KislyukAnna/sf_data_science/blob
 :arrow_up:[к оглавлению](https://github.com/KislyukAnna/sf_data_science/blob/main/DIPLOM/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-Фидбек ментора (по ссылке): [фитбек](https://docs.google.com/document/d/1cEeY8yWhIBTvSJFS7hkXP-9TWeHpt2Wl0--c3LfJnz0/edit?usp=drive_link)
+Фидбек ментора (по ссылке): [фидбек по ссылке](https://docs.google.com/document/d/1cEeY8yWhIBTvSJFS7hkXP-9TWeHpt2Wl0--c3LfJnz0/edit?usp=drive_link)
